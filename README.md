@@ -1,4 +1,4 @@
-# Simple Website
+![image](https://github.com/user-attachments/assets/dddef5cb-277a-487a-95ad-571807f9fdb5)# Simple Website
 
 This is a **simple and responsive website** created using **ReactJS** and **TailwindCSS**. The project showcases a clean and modern design with minimalistic UI, perfect for learning or showcasing basic web development skills.
 
@@ -15,7 +15,7 @@ Check out the live demo here: [Live Demo](https://e-learning.azizov.dev)
 
 ## Screenshots
 
-![Homepage Screenshot](https://via.placeholder.com/800x400.png?text=Screenshot+Placeholder)
+![Homepage Screenshot](https://res.cloudinary.com/dco92a06p/image/upload/v1732545541/azizov.dev/assets/tbizwkfe7nopulapm7gd.png)
 
 ## Installation
 
